@@ -14,7 +14,7 @@
 	<key>name</key>
 	<string>Template Controller</string>
 	<key>tabTrigger</key>
-	<string>ftempcontroller</string>
+	<string>fcontroller</string>
 	<key>uuid</key>
 	<string>AA6F2E62-674B-4353-A2F5-22B85FD1C1FB</string>
 </dict>
