@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Fuel</string>
+	<key>ordering</key>
+	<array>
+		<string>D04CD144-00B1-4541-8220-512029A12730</string>
+		<string>97946574-2408-4DE2-9A4C-209D9EBBBECA</string>
+		<string>697619F7-30B5-459E-A7A7-5A2B74CAB903</string>
+		<string>1C477EDD-6472-41C8-9804-97193FB2A16B</string>
+		<string>BC3CA3CA-4BD1-45A1-A429-4AAC9DFBB4C5</string>
+		<string>AA6F2E62-674B-4353-A2F5-22B85FD1C1FB</string>
+		<string>4C45BF6B-CF15-4DFF-8242-DAED375FD990</string>
+	</array>
+	<key>uuid</key>
+	<string>45AAFFC2-F4FD-469C-8D7D-9085379A1737</string>
+</dict>
+</plist>

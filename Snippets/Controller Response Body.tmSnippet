@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;response-&gt;body = ${0};</string>
+	<key>name</key>
+	<string>Controller Response Body</string>
+	<key>tabTrigger</key>
+	<string>frespbody</string>
+	<key>uuid</key>
+	<string>697619F7-30B5-459E-A7A7-5A2B74CAB903</string>
+</dict>
+</plist>

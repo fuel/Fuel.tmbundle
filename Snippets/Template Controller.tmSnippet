@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class Controller_${1:ClassName} extends Controller_Template {
+
+	public function action_${2:index}()
+	{
+		${3:\$this-&gt;template-&gt;content = ${4:View::factory('${5:index}')};}
+	}
+
+}</string>
+	<key>name</key>
+	<string>Template Controller</string>
+	<key>tabTrigger</key>
+	<string>ftempcontroller</string>
+	<key>uuid</key>
+	<string>AA6F2E62-674B-4353-A2F5-22B85FD1C1FB</string>
+</dict>
+</plist>

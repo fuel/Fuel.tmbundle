@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>public function action_${2:index}()
+{
+	${3:\$this-&gt;response-&gt;body = ${4:View::factory('${2}')};}
+}</string>
+	<key>name</key>
+	<string>Controller Action</string>
+	<key>tabTrigger</key>
+	<string>faction</string>
+	<key>uuid</key>
+	<string>97946574-2408-4DE2-9A4C-209D9EBBBECA</string>
+</dict>
+</plist>
