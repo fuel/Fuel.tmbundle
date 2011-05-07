@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>Asset::remove_path('${1:path}');$0</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Remove Path</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fasset</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>AFA03350-A43B-4CBA-8577-04F8296400D3</string>
 </dict>
 </plist>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Insert</string>
 	<key>tabTrigger</key>
-	<string>farray</string>
+	<string>farr</string>
 	<key>uuid</key>
 	<string>14B65006-80E0-44BA-B10D-7DEC6A9D7843</string>
 </dict>

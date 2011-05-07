@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>Config::get('$1');$0</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Get</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fconfig</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>DD337B06-09FA-4E8B-A6E9-275CB78AD8F1</string>
 </dict>
 </plist>

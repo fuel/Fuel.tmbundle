@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>Html::doctype(${1:'${2:xhtml11/xhtml1-strict/xhtml1-trans/xhtml1-frame/html5/html4-strict/html4-trans/html4-frame}'});$0</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Doctype</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fhtml</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>25EB0771-FB6E-46A1-993D-B4C170FDCD9A</string>
 </dict>
 </plist>

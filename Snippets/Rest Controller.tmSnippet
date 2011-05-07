@@ -3,12 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>class Controller_${1:ClassName} extends Controller_Rest {
+
+	$0
+
+}</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Rest Controller</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fcontroller</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>BD90C49A-D25A-4799-8E78-5989C0EF4BA7</string>
 </dict>
 </plist>

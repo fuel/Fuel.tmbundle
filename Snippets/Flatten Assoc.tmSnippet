@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::flatten_assoc(${1:array}, ${2:':'}, ${3:true});$0</string>
+	<string>Arr::flatten_assoc(${1:array}, ${2:':'}${3:, true});$0</string>
 	<key>name</key>
 	<string>Flatten Assoc</string>
 	<key>tabTrigger</key>
-	<string>farray</string>
+	<string>farr</string>
 	<key>uuid</key>
 	<string>FC841DA9-6DF4-405C-874B-7DD5CC478BCD</string>
 </dict>

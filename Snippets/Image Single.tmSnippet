@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>Asset::img('${1:filename}', ${2:attr} );$0</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Image Single</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fasset</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>F25E8CE4-9BE2-4D49-A707-36CA18C3156F</string>
 </dict>
 </plist>

@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>Html::img('${1:path_to_image}'${2:, ${3:attrs}});$0</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Image</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fhtml</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>C17FE135-3BDE-4AF7-8864-8794BDF1C656</string>
 </dict>
 </plist>

@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>Html::h('${1:content}', '${2:heading_num}'${3:, ${4:attrs}});$0</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Heading</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fhtml</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>3CA171B1-B611-464F-970F-1753FF18EDF6</string>
 </dict>
 </plist>

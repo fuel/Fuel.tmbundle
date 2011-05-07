@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Arr::average($1);$0</string>
+	<string>Html::br(${1:'${2:num_of_breaks}'${3:, ${4:attrs}}});$0</string>
 	<key>name</key>
-	<string>Average</string>
+	<string>Break</string>
 	<key>tabTrigger</key>
-	<string>farr</string>
+	<string>fhtml</string>
 	<key>uuid</key>
-	<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+	<string>A831DC83-78FC-41A3-A6F1-58E200790CC7</string>
 </dict>
 </plist>
