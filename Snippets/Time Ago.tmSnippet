@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Date::time_ago(${1:timestamp});$0</string>
+	<key>name</key>
+	<string>Time Ago</string>
+	<key>tabTrigger</key>
+	<string>fdate</string>
+	<key>uuid</key>
+	<string>276FAEB9-B304-4237-BB47-6A3A199F93FE</string>
+</dict>
+</plist>
