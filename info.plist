@@ -16,6 +16,27 @@
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>0195BE3C-FFB5-48D6-B62C-9CC1FFD38771</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F7F1E5DB-B51D-413D-9A1A-6054ED3416B7</string>
+					<string>4986D6B6-B53E-4D5C-B284-95A77F6AA47C</string>
+					<string>BE586406-96EA-487C-B034-F3E53FFB9BE5</string>
+					<string>1D07E6E7-ECC7-4AF4-A2A6-C2F9B982BAA6</string>
+					<string>D034AD8F-71A7-45D6-8CB6-ECD18C47E8B2</string>
+					<string>720C6A6E-72AA-4C8A-BA70-495F6016F6C6</string>
+					<string>43F20782-8A73-4452-888C-794BDD8C0D32</string>
+					<string>9C1B39A2-492D-44FF-92A4-78A72AEBE9C6</string>
+					<string>A17DD450-8E50-47C0-B7A8-4C516B41E6FA</string>
+					<string>F10A1921-F817-4EFA-84B7-D15666668972</string>
+					<string>225FABB9-4936-4BD3-9E55-2A3E7733FF72</string>
+					<string>6788427E-A6E0-4F63-9D97-82A1A506B2FA</string>
+					<string>8D22939B-5298-4E43-A49C-64AC8D7E6FAE</string>
+				</array>
+				<key>name</key>
+				<string>Inflector</string>
+			</dict>
 			<key>01B409FF-BBFA-45C6-AEAB-2566D9FDE1A9</key>
 			<dict>
 				<key>items</key>
@@ -149,6 +170,7 @@
 					<string>B9D1A7D7-7212-4272-ABD1-9473BF7310A4</string>
 					<string>83950053-DDD3-40AB-AD4E-802CBF6F9994</string>
 					<string>58CF740B-ADDE-46C7-B796-324025015A16</string>
+					<string>0195BE3C-FFB5-48D6-B62C-9CC1FFD38771</string>
 				</array>
 				<key>name</key>
 				<string>Classes</string>
@@ -228,6 +250,19 @@
 		<string>75C76B26-0F29-459C-87FB-3077A4E099B0</string>
 		<string>B85C0369-90AA-4A79-B0B8-DDB59B55C2C2</string>
 		<string>23B3D85C-D5AC-4ECF-B883-1909818FB98B</string>
+		<string>F7F1E5DB-B51D-413D-9A1A-6054ED3416B7</string>
+		<string>4986D6B6-B53E-4D5C-B284-95A77F6AA47C</string>
+		<string>BE586406-96EA-487C-B034-F3E53FFB9BE5</string>
+		<string>1D07E6E7-ECC7-4AF4-A2A6-C2F9B982BAA6</string>
+		<string>D034AD8F-71A7-45D6-8CB6-ECD18C47E8B2</string>
+		<string>720C6A6E-72AA-4C8A-BA70-495F6016F6C6</string>
+		<string>43F20782-8A73-4452-888C-794BDD8C0D32</string>
+		<string>9C1B39A2-492D-44FF-92A4-78A72AEBE9C6</string>
+		<string>A17DD450-8E50-47C0-B7A8-4C516B41E6FA</string>
+		<string>F10A1921-F817-4EFA-84B7-D15666668972</string>
+		<string>225FABB9-4936-4BD3-9E55-2A3E7733FF72</string>
+		<string>6788427E-A6E0-4F63-9D97-82A1A506B2FA</string>
+		<string>8D22939B-5298-4E43-A49C-64AC8D7E6FAE</string>
 		<string>BC3CA3CA-4BD1-45A1-A429-4AAC9DFBB4C5</string>
 		<string>4C45BF6B-CF15-4DFF-8242-DAED375FD990</string>
 		<string>84039391-6952-4004-B436-9CE32EBD90A7</string>

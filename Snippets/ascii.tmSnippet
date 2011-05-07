@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Html::ul(${1:items}${2:, ${3:attrs}});$0</string>
+	<string>Inflector::ascii('$1');$0</string>
 	<key>name</key>
-	<string>ul</string>
+	<string>ascii</string>
 	<key>tabTrigger</key>
-	<string>fhtml</string>
+	<string>finflector</string>
 	<key>uuid</key>
-	<string>B85C0369-90AA-4A79-B0B8-DDB59B55C2C2</string>
+	<string>F7F1E5DB-B51D-413D-9A1A-6054ED3416B7</string>
 </dict>
 </plist>

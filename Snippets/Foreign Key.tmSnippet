@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Html::ul(${1:items}${2:, ${3:attrs}});$0</string>
+	<string>Inflector::foreign_key('${1:class_name}'${2:, ${3:use_underscore}});$0</string>
 	<key>name</key>
-	<string>ul</string>
+	<string>Foreign Key</string>
 	<key>tabTrigger</key>
-	<string>fhtml</string>
+	<string>finflector</string>
 	<key>uuid</key>
-	<string>B85C0369-90AA-4A79-B0B8-DDB59B55C2C2</string>
+	<string>720C6A6E-72AA-4C8A-BA70-495F6016F6C6</string>
 </dict>
 </plist>

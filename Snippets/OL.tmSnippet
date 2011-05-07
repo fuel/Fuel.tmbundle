@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Html::ol(${1:items}${2:, ${3:attrs}});$0</string>
 	<key>name</key>
-	<string>OL</string>
+	<string>ol</string>
 	<key>tabTrigger</key>
 	<string>fhtml</string>
 	<key>uuid</key>
