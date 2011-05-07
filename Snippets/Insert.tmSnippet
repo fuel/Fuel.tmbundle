@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Arr::insert(${1:array}, ${2:value}, ${3:pos});$0</string>
+	<key>name</key>
+	<string>Insert</string>
+	<key>tabTrigger</key>
+	<string>farray</string>
+	<key>uuid</key>
+	<string>14B65006-80E0-44BA-B10D-7DEC6A9D7843</string>
+</dict>
+</plist>

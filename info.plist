@@ -2,18 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>name</key>
-	<string>Fuel</string>
-	<key>ordering</key>
-	<array>
-		<string>D04CD144-00B1-4541-8220-512029A12730</string>
-		<string>97946574-2408-4DE2-9A4C-209D9EBBBECA</string>
-		<string>697619F7-30B5-459E-A7A7-5A2B74CAB903</string>
-		<string>1C477EDD-6472-41C8-9804-97193FB2A16B</string>
-		<string>BC3CA3CA-4BD1-45A1-A429-4AAC9DFBB4C5</string>
-		<string>AA6F2E62-674B-4353-A2F5-22B85FD1C1FB</string>
-		<string>4C45BF6B-CF15-4DFF-8242-DAED375FD990</string>
-	</array>
+	<key>changed</key>
+	<dict>
+		<key>ordering</key>
+		<array>
+			<string>D04CD144-00B1-4541-8220-512029A12730</string>
+			<string>AA6F2E62-674B-4353-A2F5-22B85FD1C1FB</string>
+			<string>97946574-2408-4DE2-9A4C-209D9EBBBECA</string>
+			<string>697619F7-30B5-459E-A7A7-5A2B74CAB903</string>
+			<string>1C477EDD-6472-41C8-9804-97193FB2A16B</string>
+			<string>041C9A3D-7FEE-491D-9DD3-1C821FD1DFAE</string>
+			<string>5F77CB9A-B2B2-4DF2-B082-ACF62143507F</string>
+			<string>FC841DA9-6DF4-405C-874B-7DD5CC478BCD</string>
+			<string>B37464B0-9A39-4C5D-AB10-8168B8D94F82</string>
+			<string>DD8B00AB-D3C9-4B42-BFE3-295779A2E293</string>
+			<string>14B65006-80E0-44BA-B10D-7DEC6A9D7843</string>
+			<string>F361399E-97B5-429B-922A-A1757CB933A4</string>
+			<string>1A8F26FA-0E24-4E66-B26D-4634107BBDB4</string>
+			<string>A822CE68-4752-4407-9B02-BCC349DE9621</string>
+			<string>814FD88C-0589-4876-A6DF-B409C3429C52</string>
+			<string>6DFB6AA5-BE13-4716-8DEA-EDB7750BB364</string>
+			<string>F4F3400A-2703-45EE-9A05-E74326F8330F</string>
+			<string>BF1BEEBF-2B43-466B-935F-3C36725C28DA</string>
+			<string>BC3CA3CA-4BD1-45A1-A429-4AAC9DFBB4C5</string>
+			<string>4C45BF6B-CF15-4DFF-8242-DAED375FD990</string>
+			<string>84039391-6952-4004-B436-9CE32EBD90A7</string>
+			<string>D34618B7-3C83-4A19-A930-D5A28522A2DD</string>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
 	<key>uuid</key>
 	<string>45AAFFC2-F4FD-469C-8D7D-9085379A1737</string>
 </dict>

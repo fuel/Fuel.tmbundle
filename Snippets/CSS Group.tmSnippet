@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Asset::css(${1:array}, array($2), '${3:group_name}');$0</string>
+	<key>name</key>
+	<string>CSS Group</string>
+	<key>tabTrigger</key>
+	<string>fasset</string>
+	<key>uuid</key>
+	<string>F4F3400A-2703-45EE-9A05-E74326F8330F</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class Model_${1:ClassName} extends Orm\Model {$0}</string>
+	<key>name</key>
+	<string>Model</string>
+	<key>tabTrigger</key>
+	<string>fmodel</string>
+	<key>uuid</key>
+	<string>041C9A3D-7FEE-491D-9DD3-1C821FD1DFAE</string>
+</dict>
+</plist>
