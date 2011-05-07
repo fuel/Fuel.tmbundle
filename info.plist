@@ -99,12 +99,25 @@
 					<key>name</key>
 					<string>Controllers</string>
 				</dict>
+				<key>9F64ADAB-6737-4DFC-A56C-F366C16006E0</key>
+				<dict>
+					<key>items</key>
+					<array>
+						<string>DD337B06-09FA-4E8B-A6E9-275CB78AD8F1</string>
+						<string>EF44A225-57AA-429C-B860-BECFC2CC879D</string>
+						<string>8680F9AC-E979-44FD-A9A3-3B927483A369</string>
+						<string>A703BCD5-567C-46AC-98C7-08A386666555</string>
+					</array>
+					<key>name</key>
+					<string>Config</string>
+				</dict>
 				<key>A1F80751-7D6F-4488-A4FD-4E8C843BC5EF</key>
 				<dict>
 					<key>items</key>
 					<array>
 						<string>5D37085C-2F7F-4202-B610-34B6E29337C0</string>
 						<string>01B409FF-BBFA-45C6-AEAB-2566D9FDE1A9</string>
+						<string>9F64ADAB-6737-4DFC-A56C-F366C16006E0</string>
 						<string>58CF740B-ADDE-46C7-B796-324025015A16</string>
 					</array>
 					<key>name</key>
