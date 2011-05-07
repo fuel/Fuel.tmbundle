@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Uri::create('${1:/}')</string>
+	<string>Uri::detect();$0</string>
 	<key>name</key>
-	<string>Uri Create</string>
+	<string>Detect</string>
 	<key>tabTrigger</key>
-	<string>furicr</string>
+	<string>furi</string>
 	<key>uuid</key>
-	<string>84039391-6952-4004-B436-9CE32EBD90A7</string>
+	<string>4D033E81-A73A-4324-8ACA-81D026626869</string>
 </dict>
 </plist>
