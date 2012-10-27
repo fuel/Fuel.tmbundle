@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Date::range_to_array(${1:start}${2:${3:, ${4:end}}${5:, ${6:"${7:+2 days}"}}});$0</string>
+	<key>name</key>
+	<string>Range to Array</string>
+	<key>tabTrigger</key>
+	<string>fdate</string>
+	<key>uuid</key>
+	<string>3528DCCF-A77A-48BC-9274-7D0470A63E0D</string>
+</dict>
+</plist>

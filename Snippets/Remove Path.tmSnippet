@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Asset::remove_path('${1:path}');$0</string>
+	<key>name</key>
+	<string>Remove Path</string>
+	<key>tabTrigger</key>
+	<string>fasset</string>
+	<key>uuid</key>
+	<string>AFA03350-A43B-4CBA-8577-04F8296400D3</string>
+</dict>
+</plist>

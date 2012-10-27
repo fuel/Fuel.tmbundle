@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Config::load('${1:file}'${2:, ${3:'${4:group_name}'}});$0</string>
+	<key>name</key>
+	<string>Load</string>
+	<key>tabTrigger</key>
+	<string>fconfig</string>
+	<key>uuid</key>
+	<string>8680F9AC-E979-44FD-A9A3-3B927483A369</string>
+</dict>
+</plist>

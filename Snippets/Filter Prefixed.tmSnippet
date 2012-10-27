@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Arr::filter_prefixed(${1:array}, ${2:'prefix_'}${3:, true});$0</string>
+	<key>name</key>
+	<string>Filter Prefixed</string>
+	<key>tabTrigger</key>
+	<string>farr</string>
+	<key>uuid</key>
+	<string>B37464B0-9A39-4C5D-AB10-8168B8D94F82</string>
+</dict>
+</plist>

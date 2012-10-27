@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Cookie::delete('$1');$0</string>
+	<key>name</key>
+	<string>Delete</string>
+	<key>tabTrigger</key>
+	<string>fcookie</string>
+	<key>uuid</key>
+	<string>E019E2D7-6908-4AB3-9F0E-BED87CD86508</string>
+</dict>
+</plist>

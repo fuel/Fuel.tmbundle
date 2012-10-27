@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Html::mail_to('${1:email}', '${2:text}'${3:, ${4:'${5:subject}'}}${6:, ${7:attrs}});$0</string>
+	<key>name</key>
+	<string>Mail To</string>
+	<key>tabTrigger</key>
+	<string>fhtml</string>
+	<key>uuid</key>
+	<string>914721F5-044F-4895-AA95-C93688410383</string>
+</dict>
+</plist>

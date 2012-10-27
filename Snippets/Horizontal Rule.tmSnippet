@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Html::hr(${1:attrs});$0</string>
+	<key>name</key>
+	<string>Horizontal Rule</string>
+	<key>tabTrigger</key>
+	<string>fhtml</string>
+	<key>uuid</key>
+	<string>D5AF344A-C54C-437F-9264-06EE42A60336</string>
+</dict>
+</plist>

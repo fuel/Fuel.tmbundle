@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Uri::create('${1:/}')</string>
+	<string>Inflector::tableize('$1');$0</string>
 	<key>name</key>
-	<string>Uri Create</string>
+	<string>Tableize</string>
 	<key>tabTrigger</key>
-	<string>furicr</string>
+	<string>finflector</string>
 	<key>uuid</key>
-	<string>84039391-6952-4004-B436-9CE32EBD90A7</string>
+	<string>6788427E-A6E0-4F63-9D97-82A1A506B2FA</string>
 </dict>
 </plist>

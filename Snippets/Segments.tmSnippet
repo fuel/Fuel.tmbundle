@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Uri::segments();$0</string>
+	<key>name</key>
+	<string>Segments</string>
+	<key>tabTrigger</key>
+	<string>furi</string>
+	<key>uuid</key>
+	<string>59822F3D-D21B-40BC-901A-CCE6A8F28A66</string>
+</dict>
+</plist>

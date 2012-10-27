@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Date::create_from_string( "${1:01/04/2011}" , "${2:us}" );$0</string>
+	<key>name</key>
+	<string>Create from String</string>
+	<key>tabTrigger</key>
+	<string>fdate</string>
+	<key>uuid</key>
+	<string>5FE9B2CF-D702-4850-99FE-48B83EE452B9</string>
+</dict>
+</plist>

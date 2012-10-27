@@ -3,19 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class Controller_${1:ClassName} extends Controller_Template {
+	<string>class Controller_${1:ClassName} extends Controller_Rest {
 
-	public function action_${2:index}()
-	{
-		${3:\$this-&gt;template-&gt;content = ${4:View::factory('${5:index}')};}
-	}
+	$0
 
 }</string>
 	<key>name</key>
-	<string>Template Controller</string>
+	<string>Rest Controller</string>
 	<key>tabTrigger</key>
 	<string>fcontroller</string>
 	<key>uuid</key>
-	<string>AA6F2E62-674B-4353-A2F5-22B85FD1C1FB</string>
+	<string>BD90C49A-D25A-4799-8E78-5989C0EF4BA7</string>
 </dict>
 </plist>

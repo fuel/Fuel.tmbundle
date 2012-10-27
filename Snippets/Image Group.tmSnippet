@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Asset::img(${1:images}, ${2:attrs}, '${3:group_name}');$0</string>
+	<key>name</key>
+	<string>Image Group</string>
+	<key>tabTrigger</key>
+	<string>fasset</string>
+	<key>uuid</key>
+	<string>ED7358DA-EF1C-4266-AB20-C2247CEFE165</string>
+</dict>
+</plist>

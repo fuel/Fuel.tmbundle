@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Config::set('${1:item}', ${2:'${3:value}'});$0</string>
+	<key>name</key>
+	<string>Set</string>
+	<key>tabTrigger</key>
+	<string>fconfig</string>
+	<key>uuid</key>
+	<string>EF44A225-57AA-429C-B860-BECFC2CC879D</string>
+</dict>
+</plist>

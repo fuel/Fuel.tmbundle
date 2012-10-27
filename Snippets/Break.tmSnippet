@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Html::br(${1:'${2:num_of_breaks}'${3:, ${4:attrs}}});$0</string>
+	<key>name</key>
+	<string>Break</string>
+	<key>tabTrigger</key>
+	<string>fhtml</string>
+	<key>uuid</key>
+	<string>A831DC83-78FC-41A3-A6F1-58E200790CC7</string>
+</dict>
+</plist>

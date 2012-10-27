@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Inflector::friendly_title('${1:text to convert}', '${2:-/_}'${3:, ${4:lowercase}});$0</string>
+	<key>name</key>
+	<string>Friendly Title</string>
+	<key>tabTrigger</key>
+	<string>finflector</string>
+	<key>uuid</key>
+	<string>43F20782-8A73-4452-888C-794BDD8C0D32</string>
+</dict>
+</plist>

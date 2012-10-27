@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Inflector::foreign_key('${1:class_name}'${2:, ${3:use_underscore}});$0</string>
+	<key>name</key>
+	<string>Foreign Key</string>
+	<key>tabTrigger</key>
+	<string>finflector</string>
+	<key>uuid</key>
+	<string>720C6A6E-72AA-4C8A-BA70-495F6016F6C6</string>
+</dict>
+</plist>

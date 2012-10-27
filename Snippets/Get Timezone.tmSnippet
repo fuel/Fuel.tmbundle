@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Date::factory(${1:timestamp}${2:, '${3:timezone}'})-&gt;get_timezone();$0</string>
+	<key>name</key>
+	<string>Get Timezone</string>
+	<key>tabTrigger</key>
+	<string>fdate</string>
+	<key>uuid</key>
+	<string>33EBD50F-E4E5-47B0-BEC5-8D7CC4E6DA76</string>
+</dict>
+</plist>
